@@ -2,6 +2,6 @@ This repository contains several codes I wrote and used for stellar astrophysics
 
 Codes with keyword 'CMD' Code create color-magnitude diagrams using absolute magnitude data from MESA. 
 
-Codes with 'hif2' were originally written by Dr. Earl Bellinger. These codes perform calculations regarding the hydrogen ionization front in stars and plot optical depth vs star age diagrams in addition to Hertzsprung-Russell diagrams.
+Codes with 'hif2' were originally written by [Dr. Earl Bellinger](https://github.com/earlbellinger). These codes perform calculations regarding the hydrogen ionization front in stars and plot optical depth vs star age diagrams in addition to Hertzsprung-Russell diagrams.
 
 RSP_interior_LC_plotter uses nonlinear RSP calculations and data to visualize interior luminosity and absolute magnitude light curves of variable stars.
